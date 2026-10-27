@@ -1,0 +1,8 @@
+.env
+.venv/
+.next/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log

@@ -1,0 +1,4 @@
+# Run from the Capacity Connect repository root.
+-r requirements.txt
+pytest==9.1.1
+httpx==0.28.1
